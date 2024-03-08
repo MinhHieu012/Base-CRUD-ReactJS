@@ -1,0 +1,16 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "name": "Lê Minh Hiếu",
+      "address": "Hà Nội",
+      "phone": "0967710509"
+    },
+    {
+      "id": 2,
+      "name": "Lê Minh Hiếu 1",
+      "address": "Hà Nội 1",
+      "phone": "0967710508"
+    }
+  ]
+}
