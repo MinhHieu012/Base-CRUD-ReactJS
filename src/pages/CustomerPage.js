@@ -1,14 +1,13 @@
 import React from "react";
 
 
-class CustomerPage extends React.Component{
-    render(){
-        return(
-            <div className="CustomerPage">
-                <h1>Trang Customer</h1>
-            </div>
-        )
-    }
+function CustomerPage() {
+    return (
+        <div className="CustomerPage">
+            <h1>Customer Page</h1>
+        </div>
+    )
 }
+
 
 export default CustomerPage;
